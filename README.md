@@ -1,4 +1,4 @@
-# DIO-desafio-criar-primeiro-repositório
+# dio-everis-desafio-criar-primeiro-repositório
 
 Primeiro desafio DIO Everis #Java2 criando repositório github.
 
